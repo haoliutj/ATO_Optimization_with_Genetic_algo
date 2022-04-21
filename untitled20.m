@@ -1,1 +1,0 @@
-[x,fval,exitflag,pitput,population,scores]=ga(@ga43,2)
