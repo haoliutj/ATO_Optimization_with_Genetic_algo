@@ -1,5 +1,5 @@
 # ATO_Optimization_with_Genetic_algo
-leverage genetic algo to optimize the operating-guidence curve of Automatic Train Operation System
+Leverage genetic algo to optimize the operating-guidence curve of Automatic Train Operation System. The more details can be find in the following papers.
 
 The repositery is for papers
 * H Liu, C.Y Qian, Z.M Ren, G.L Wang, "Research on Running Curve Optimization of Automatic Train Operation
